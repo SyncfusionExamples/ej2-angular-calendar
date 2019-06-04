@@ -9,6 +9,7 @@ This is a Angular 7 project generated using [Angular CLI](https://github.com/ang
 
 * Min - Starting date that can be selected.
 * Max - Last date that can be selected.
+* IsMultiSelection - Multiple values that can be selected.
 
 ## How to run this application?
 
